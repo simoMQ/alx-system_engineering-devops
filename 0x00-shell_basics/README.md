@@ -1,2 +1,1 @@
-step by step scripts explanations :
-
+all bash scripts that i need to know as a software engineer
